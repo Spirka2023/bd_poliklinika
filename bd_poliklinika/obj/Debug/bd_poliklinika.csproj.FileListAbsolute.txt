@@ -1,0 +1,12 @@
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\bin\Debug\bd_poliklinika.exe.config
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\bin\Debug\bd_poliklinika.exe
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\bin\Debug\bd_poliklinika.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.Form1.resources
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.exe
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\Работа\bd_poliklinika\bd_poliklinika\obj\Debug\bd_poliklinika.Form2.resources
